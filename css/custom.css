@@ -1,0 +1,15 @@
+.red-container {
+    width : 50px;
+    height : 50px;
+    border : 1px solid red;
+    display : inline-block;
+    box-sizing : border-box;
+}
+
+.red-item {
+    width : 50px;
+    height : 50px;
+    background-color : red;
+    display : inline-block;
+    box-sizing : border-box;
+}
